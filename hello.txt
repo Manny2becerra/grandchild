@@ -1,2 +1,2 @@
 hello my name is manny.
-
+	i am now practicing how to use vi editor so that i am balanced and know how to use nano and vi
