@@ -1,2 +1,3 @@
 hello my name is manny and i love to code i am creating this file to practice
-using the terminal and git commands.
+using the terminal and git commands. the reason i am practicing using the terminal and creating git repositories is so i can become a better programmer for Bender Concepts
+
