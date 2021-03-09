@@ -1,0 +1,2 @@
+hello my name is manny and i love to code i am creating this file to practice
+using the terminal and git commands.
